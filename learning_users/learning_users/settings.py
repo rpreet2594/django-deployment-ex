@@ -27,7 +27,7 @@ SECRET_KEY = 'jmc(ovy1vm!t3s7slgkvm+q=h!l$f)kgpj@nhceot!%%2)e3!t'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['mysite.pythonanywhere.com']
 
 
 # Application definition
